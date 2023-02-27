@@ -43,4 +43,9 @@ public class HomeController {
 			return "helloworld";
 		}
 	}
+
+	@RequestMapping("/getAllDetails")
+	public String getAllDetailsFromProject(@ModelAttribute("student") Student student){
+		return "helloworld"
+	}
 }
