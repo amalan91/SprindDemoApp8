@@ -12,5 +12,7 @@
 	
 	<a href="showForm">Go to Show Form</a>
 	
+	<a href="logout">Logout from Application</a?
+	
 </body>
 </html>
